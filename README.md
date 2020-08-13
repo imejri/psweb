@@ -7,3 +7,4 @@ Exposes web server on port 8080 as per ./app.js
 
 See **Dockerfile** for more details
 Vérification de l'automated buils
+Déploiment dans kubernetes.
